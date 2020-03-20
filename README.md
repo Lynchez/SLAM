@@ -4,6 +4,8 @@
 
 # Simultaneous Localization and Mapping
 
+![SLAM][img]
+
 ## Project Overview
 
 In this project, Using finding good features with Opencv
