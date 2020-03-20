@@ -1,6 +1,6 @@
-[/assets/]: # (Image Reference)
+[//]: # (Image Reference)
 
-[img]: ./img.png "SLAM"
+[img]: ./assets/img.png "SLAM"
 
 # Simultaneous Localization and Mapping
 
